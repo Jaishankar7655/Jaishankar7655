@@ -11,8 +11,8 @@ I specialize in building high-performance, user-centric, and production-ready we
 
 🛠️ My Journey So Far:  
 - 💼 8 months as **Full Stack Developer at Cynctech IT Solutions, Bhopal**  
-- 💼 3 months as **Full Stack Developer Intern at Netligent Technologies Pvt. Ltd.**  
-- 💼 1 month as **Full Stack Developer Intern (Training) at Netligent Technologies**  
+- 💼 1 months as **Full Stack Developer Intern at Netligent Technologies Pvt. Ltd.**  
+- 💼 3 month as **Full Stack Developer Intern (Training) at Netligent Technologies**  
 
 ✨ Passionate about **web applications, cloud-native solutions, and DevOps pipelines**.  
 ⚡ Always learning new tools, technologies, and best practices to stay ahead.  
