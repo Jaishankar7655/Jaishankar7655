@@ -11,8 +11,8 @@ I specialize in building high-performance, user-centric, and production-ready we
 
 🛠️ My Journey So Far:  
 - 💼 8 months as **Full Stack Developer at Cynctech IT Solutions, Bhopal**  
-- 💼 1 months as **Full Stack Developer Intern at Netligent Technologies Pvt. Ltd.**  
-- 💼 3 month as **Full Stack Developer Intern (Training) at Netligent Technologies**  
+- 💼 3 months as **Full Stack Developer Intern at Netligent Technologies Pvt. Ltd.**  
+- 💼 1 month as **Full Stack Developer Intern (Training) at Netligent Technologies**  
 
 ✨ Passionate about **web applications, cloud-native solutions, and DevOps pipelines**.  
 ⚡ Always learning new tools, technologies, and best practices to stay ahead.  
@@ -59,5 +59,27 @@ I specialize in building high-performance, user-centric, and production-ready we
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)  
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge)  
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge)  
+
+---
+
+## 📬 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jaishankar-jaiswal-14253926b)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Jaishankar7655)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://codeformme.netlify.app/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:jaishankar7655@gmail.com)  
+
+---
+
+## 📈 Activity Graph  
+
+![Jaishankar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaishankar7655&theme=react-dark&hide_border=true)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Jaishankar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaishankar7655&show_icons=true&theme=react&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaishankar7655&layout=compact&theme=react&hide_border=true)  
 
 ---
